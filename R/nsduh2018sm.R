@@ -6,6 +6,6 @@
 #' 
 #' @format A data frame with 1000 rows and 2691 columns
 #' 
-#' @seealso \code{nsduh2018}
+#' @seealso \code{\link{nsduh2018}}
 #' 
 "nsduh2018sm"
