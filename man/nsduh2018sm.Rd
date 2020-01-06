@@ -3,7 +3,7 @@
 \docType{data}
 \name{nsduh2018sm}
 \alias{nsduh2018sm}
-\title{Subset of 2018 National Survey on Drug Use and Health (NSDUH)}
+\title{Subset of the 2018 National Survey on Drug Use and Health (NSDUH)}
 \format{A data frame with 1000 rows and 2691 columns}
 \usage{
 nsduh2018sm

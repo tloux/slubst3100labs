@@ -1,4 +1,4 @@
-#' Subset of 2018 National Survey on Drug Use and Health (NSDUH)
+#' Subset of the 2018 National Survey on Drug Use and Health (NSDUH)
 #' 
 #' A random sample of 1000 rows from the 2018 NSDUH survey
 #' 
