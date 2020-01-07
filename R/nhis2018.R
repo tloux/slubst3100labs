@@ -4,7 +4,7 @@
 #' 
 #' This data set contains the Sample Adult data from the 2018 NHIS.
 #' 
-#' For more information, see the NHIS 2018 webapage: \url{httpshttps://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm}. In particular, the variable layout and variable frequency files will be important.
+#' For more information, see the NHIS 2018 webapage: \url{https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm}. In particular, the variable layout and variable frequency files will be important.
 #' 
 #' @format A data frame with 25417 rows and 742 columns
 #' 

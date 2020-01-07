@@ -14,7 +14,7 @@ From the NHIS website: The National Health Interview Survey (NHIS) is the princi
 \details{
 This data set contains the Sample Adult data from the 2018 NHIS.
 
-For more information, see the NHIS 2018 webapage: \url{httpshttps://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm}. In particular, the variable layout and variable frequency files will be important.
+For more information, see the NHIS 2018 webapage: \url{https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm}. In particular, the variable layout and variable frequency files will be important.
 }
 \seealso{
 \code{\link{nhis2018sm}}
