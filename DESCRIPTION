@@ -1,7 +1,7 @@
 Package: slubst3100labs
 Type: Package
 Title: Lab data for BST 3100 at Saint Louis University
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: person(given = "Travis",
              family = "Loux",
              role = c("aut", "cre"),
